@@ -1,0 +1,7 @@
+consolidated Mon Jun 30 21:00:39 PDT 2014
+total records 		 88875
+null place records	 1690
+null time records	 7225
+total scrubbed 		 80332
+place conversion 	 1.9000 percent
+time conversion 	 8.1200 percent

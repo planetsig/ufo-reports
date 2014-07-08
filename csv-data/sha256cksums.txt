@@ -1,0 +1,5 @@
+date
+-rw-rw-r-- 1 sigi sigi 15349209 Jun 30 21:00 ufo-complete-geocoded-time-standardized.csv
+6cdc2d8014c6308517956236cdd059c14af6b19b4be5e6698977583cfd7b85f9  ufo-complete-geocoded-time-standardized.csv
+-rw-rw-r-- 1 sigi sigi 13929415 Jun 30 21:00 ufo-scrubbed-geocoded-time-standardized.csv
+48c804c5923b3ab31118fd5a7b5e4c7578ddb1dd66f6a1418fa1c954ea644405  ufo-scrubbed-geocoded-time-standardized.csv
